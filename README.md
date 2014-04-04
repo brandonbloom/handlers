@@ -4,7 +4,7 @@ A Clojure library designed to explore first-class exception handlers.
 
 ## Usage
 
-See the test code in src/handlers/core.clj
+See the [test code](src/handlers/core.clj#L56).
 
 ## License
 
